@@ -1,0 +1,83 @@
+[
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 100,
+    "junta": 1,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 100,
+    "junta": 2,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 100,
+    "junta": 3,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 100,
+    "junta": 4,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 100,
+    "junta": 5,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 200,
+    "junta": 1,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 200,
+    "junta": 2,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 200,
+    "junta": 3,
+    "electores": 300
+  },
+  {
+    "cda": 1,
+    "cargo": 5,
+    "provincia": 17,
+    "canton": 20,
+    "parroquia": 200,
+    "junta": 4,
+    "electores": 300
+  }
+]
